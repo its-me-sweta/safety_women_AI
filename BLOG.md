@@ -167,3 +167,12 @@ This app is intentionally minimal. In an emergency, every second counts — and 
 ---
 
 _Built with Python 🐍 Flask ⚡ and deployed on AWS Amplify + Render_
+
+---
+
+## GitHub Repository
+
+Source code is open and available here:
+[github.com/its-me-sweta/safety_women_AI](https://github.com/its-me-sweta/safety_women_AI)
+
+Submitted for the **AWS User Group Madurai: Kiro Women App Challenge**.
